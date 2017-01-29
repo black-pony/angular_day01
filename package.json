@@ -1,0 +1,19 @@
+{
+  "name": "angular-day01",
+  "version": "1.0.1",
+  "description": "angular第一天课件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/black-pony/angular-01.git"
+  },
+  "author": "ericzheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/black-pony/angular-01/issues"
+  },
+  "homepage": "https://github.com/black-pony/angular-01#readme"
+}
